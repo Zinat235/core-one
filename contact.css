@@ -1,0 +1,197 @@
+body{
+    background-color: hsl(148, 38%, 91%);
+}
+.one{
+    border: 2px solid white;
+    background-color: white;
+    width: 530px;
+    height: 640px;
+    border-radius: 10px;
+    margin: 200px 450px;
+    padding: 10px 30px;
+    position: relative;
+}
+.two{
+    color: hsl(187, 24%, 22%);
+}
+.three{
+    position: absolute;
+    color: hsl(187, 24%, 22%);
+}
+.four{
+    width: 230px;
+    height: 35px;
+    border-radius: 5px;
+    position: absolute;
+    top: 100px;
+    padding-left: 20px;
+    font-size: medium;
+    color:hsl(187, 24%, 22%);
+    border: 1px solid hsl(187, 24%, 22%);
+    outline: none;
+
+}
+.four:focus{
+    border: 2px solid hsl(169, 82%, 27%);
+    
+} 
+.four:hover{
+    border-color: green;
+}
+.five{
+    position: absolute;
+    top: 75px;
+    left: 300px;
+    color: hsl(187, 24%, 22%);
+}
+.six{
+    width: 230px;
+    height: 35px;
+    border-radius: 5px;
+    position: absolute;
+    top: 100px;
+    left: 310px;
+    padding-left: 20px;
+    font-size: medium;
+    color:hsl(187, 24%, 22%);
+    outline: none;
+    border: 1px solid hsl(187, 24%, 22%);
+}
+.six:focus{
+    border:2px solid hsl(169, 82%, 27%);
+}
+.six:hover{
+    border-color: green;
+}
+.seven{
+    position: absolute;
+    top: 150px;
+    color: hsl(187, 24%, 22%);
+}
+.eight{
+    position: absolute;
+    width: 510px;
+    height: 35px;
+    border-radius: 5px;
+    top: 180px ;
+    padding-left: 20px;
+    font-size: medium;
+    color:hsl(187, 24%, 22%);
+    border: 1px solid hsl(187, 24%, 22%);
+}
+.eight:focus{
+     border:2px solid hsl(169, 82%, 27%);
+}
+.nine{
+    color:  hsl(169, 82%, 27%);
+}
+.ten{
+   position: absolute;
+   top: 220px;
+   color: hsl(187, 24%, 22%);
+}
+.eleven{
+    width: 250px;
+    height: 40px;
+    position: absolute;
+    top: 270px;
+    border-radius: 7px;
+    color:hsl(187, 24%, 22%);
+    border: 1px solid hsl(187, 24%, 22%);
+}
+.e:hover{
+     background-color:hsl(170, 73%, 14%) ;
+}
+.twelve{
+    text-align: center;
+    position: absolute;
+    top: 9px;
+    left: 49px;
+    color: hsl(187, 24%, 22%);
+}
+.he{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 8px;
+    left: 20px;
+    
+}
+
+.act{
+    color:hsl(187, 24%, 22%);
+    border: 1px solid hsl(187, 24%, 22%);
+    width: 250px;
+    height: 40px;
+    position: absolute;
+    top: 270px;
+    left: 310px;
+    border-radius: 7px;
+}
+.like{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 8px;
+    left: 20px;
+    outline: none;
+}
+.a{
+    text-align: center;
+    position: absolute;
+    top: 9px;
+    left: 49px;
+    color: hsl(187, 24%, 22%);
+}
+.child{
+    width: 490px;
+    height: 80px;
+    position: absolute;
+    top: 370px;
+    border-radius: 9px;
+    padding: 20px 20px;
+    color:hsl(187, 24%, 22%);
+    border: 1px solid hsl(187, 24%, 22%);
+} 
+.child:focus{
+    border:2px solid hsl(169, 82%, 27%);
+}
+.b{
+    position: absolute;
+    top: 335px;
+    color: hsl(187, 24%, 22%);
+}
+.c{
+    position: absolute;
+    top: 510px;
+}
+.d{
+    position: absolute;
+    top: 510px;
+    left: 60px;
+}
+.e{
+    border: 1px solid white;
+    width: 535px;
+    height: 55px;
+    border-radius: 5px;
+    position: absolute;
+    top: 560px;
+    background-color: hsl(169, 82%, 27%);
+}
+.f{
+    position: absolute;
+    left: 251px;
+    top: 15px;
+    font-size: 15px;
+    color: white;
+}
+#g{
+    accent-color: green; 
+}
+#a{
+    accent-color: green;
+}
+#s{
+    accent-color: green;
+}
